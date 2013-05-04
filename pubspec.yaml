@@ -1,0 +1,7 @@
+name: content_type
+version: 0.5.0
+description: Useful when you need to deal with content types (mime types).
+author: Kai Sellgren <kaisellgren@gmail.com>
+homepage: http://github.com/kaisellgren/content_type
+dependencies:
+  unittest: 0.5.0+1
