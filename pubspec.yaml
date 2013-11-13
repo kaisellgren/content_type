@@ -1,7 +1,9 @@
 name: content_type
-version: 0.5.1
+version: 0.5.3
 description: Useful when you need to deal with content types (mime types).
 author: Kai Sellgren <kaisellgren@gmail.com>
 homepage: http://github.com/kaisellgren/content_type
+environment:
+  sdk: '>=0.8.10+6 <2.0.0'
 dependencies:
-  unittest: any
+  unittest: '>=0.9.0 < 0.10.0'

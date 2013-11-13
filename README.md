@@ -1,6 +1,8 @@
 Content-Type
 ==
 
+Note: You should probably use the MIME library instead: http://pub.dartlang.org/packages/mime
+
 A simple utility to retrieve the content-type for a filename.
 
 ## Examples
